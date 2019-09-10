@@ -1,9 +1,3 @@
-// Names: Vishnu Kommineni, Satvik Katla, Samuel Liu
-// CSCE 2100
-// Prof. Islam
-// Project 2
-
-
 #include <iostream>
 #include <vector> // for 2D vector 
 #include <fstream>
